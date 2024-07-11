@@ -1,0 +1,27 @@
+nav a {
+  text-decoration: none !important;
+  margin-right: 25px !important;
+  font-size: xx-large !important;
+  color: rgb(20, 31, 155);
+  color: lightseagreen;
+}
+.navbar-collapse {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.col {
+  height: 38rem;
+}
+.row {
+  margin: 10px;
+}
+.form-label {
+  font-size: large;
+}
+#home {
+  color: maroon;
+}
+#container{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
