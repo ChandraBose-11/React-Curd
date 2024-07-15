@@ -3,10 +3,6 @@ import React, { useEffect, useState } from "react";
 //React Icons
 import { MdOutlineDoubleArrow } from "react-icons/md";
 import { FaUsers } from "react-icons/fa";
-
-
-
-
 const Home = () => {
   const [products, setProducts] = useState([]);
   useEffect(() => {
